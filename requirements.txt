@@ -1,4 +1,3 @@
-distutils
 matplotlib
 numpy
 streamlit
